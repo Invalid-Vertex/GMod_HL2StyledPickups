@@ -1,0 +1,11 @@
+{
+	"title" : "HL2 Styled Pickups",
+	"type" : "weapon",
+	"tags" : ["fun", "realism"]
+	"ignore"	:
+	[
+		"icon.*",
+		"*.gma",
+		"README.md"
+	]
+}

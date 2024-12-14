@@ -1,0 +1,8 @@
+"SpriteCard"
+{
+	$basetexture	"easteregg/snow_01"
+	$surfaceprop	"no_decal"
+	$vertexalpha	"1"
+	$vertexcolor	"1"
+	$DEPTHBLEND		"0" 
+}
